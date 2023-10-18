@@ -1,1 +1,4 @@
 venv
+dist
+fcast_client.egg-info
+build
